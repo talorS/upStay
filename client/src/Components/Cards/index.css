@@ -1,0 +1,9 @@
+button {
+    margin-left: 5px;
+}
+
+.error {
+    color: red;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',
+        Helvetica, Arial, 'Lucida Grande', sans-serif;
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Project A",
+    "description": "Sample project A",
+    "startDate": "2024-06-20",
+    "completionDate": "2024-06-30",
+    "status": "Forced Closed",
+    "startingBudget": 100000,
+    "currentCost": 300000
+  },
+  {
+    "id": 2,
+    "name": "Project B",
+    "description": "Sample project B",
+    "startDate": "2024-06-15",
+    "completionDate": "2024-06-25",
+    "status": "In Progress",
+    "startingBudget": 50000,
+    "currentCost": 0
+  },
+  {
+    "id": 3,
+    "name": "Project C",
+    "description": "Sample project C",
+    "startDate": "2024-06-10",
+    "completionDate": "2024-06-20",
+    "status": "In Progress",
+    "startingBudget": 200000,
+    "currentCost": 0
+  },
+  {
+    "id": 4,
+    "name": "Project X",
+    "description": "Project X",
+    "startDate": "2024-06-16",
+    "startingBudget": "10000",
+    "status": "Forced Closed",
+    "currentCost": 100000000
+  },
+  {
+    "id": 5,
+    "name": "Project Z",
+    "description": "Project Z",
+    "startDate": "2024-06-10",
+    "completionDate": "2024-06-16",
+    "status": "Planning",
+    "startingBudget": 10000,
+    "currentCost": 2000
+  },
+  {
+    "id": 6,
+    "name": "Project Z",
+    "description": "Project Z",
+    "startDate": "2024-06-10",
+    "completionDate": "2024-06-16",
+    "status": "Planning",
+    "startingBudget": 10000,
+    "currentCost": 2000
+  },
+  {
+    "id": 7,
+    "name": "sfsdfd",
+    "description": "sdfsdf",
+    "startDate": "2024-06-16",
+    "completionDate": "2024-06-16",
+    "status": "In Progress",
+    "startingBudget": 12,
+    "currentCost": 3
+  }
+]
